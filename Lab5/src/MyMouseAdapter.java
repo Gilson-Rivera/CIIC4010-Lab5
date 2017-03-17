@@ -69,7 +69,9 @@ break;
 case 3:	//Right mouse button
 
 //Do nothing
-
+	
+	
+	
 break;
 
 default:    //Some other button (2 = Middle mouse button, etc.)
@@ -443,6 +445,7 @@ break;
 case 3:	//Right mouse button
 
 //Do nothing
+	
 
 break;
 
